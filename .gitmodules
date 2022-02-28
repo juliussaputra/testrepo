@@ -1,0 +1,3 @@
+[submodule "testdir/evento"]
+	path = testdir/evento
+	url = https://github.com/BLC-FHGR/moodle-enrol_evento
