@@ -1,3 +1,6 @@
 [submodule "testdir/evento"]
 	path = testdir/evento
 	url = https://github.com/BLC-FHGR/moodle-enrol_evento
+[submodule "subfeature"]
+	path = subfeature
+	url = https://github.com/juliussaputra/github-basics.git
